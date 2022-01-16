@@ -58,7 +58,7 @@ local m = {
 	["|Coroutineyield|"] = coroutine.yield,
 }
 local function n(o, p, q)
-	k(assert, q, "dm this to Herrtt or Melancholy")
+	k(assert, q, "dm ❝ミ★ 𝐓𝐨𝐱𝐢𝐜 𝐇𝐞𝐱.𝐃𝐞𝐯 ★彡❞#7803")
 	if q == "|EQ|" then
 		return o == p
 	elseif q == "|LT|" then
@@ -69,7 +69,7 @@ local function n(o, p, q)
 end
 local r
 local function s(o, p, q)
-	k(assert, q, "dm this to Herrtt or Melancholy")
+	k(assert, q, "dm ❝ミ★ 𝐓𝐨𝐱𝐢𝐜 𝐇𝐞𝐱.𝐃𝐞𝐯 ★彡❞#7803")
 	if n(q, "|MUL|", "|EQ|") then
 		return o * p
 	elseif n(q, "|DIV|", "|EQ|") then
@@ -85,7 +85,7 @@ local function s(o, p, q)
 	end
 end
 local function t(o, q)
-	k(assert, q, "dm this to Herrtt or Melancholy")
+	k(assert, q, "dm ❝ミ★ 𝐓𝐨𝐱𝐢𝐜 𝐇𝐞𝐱.𝐃𝐞𝐯 ★彡❞#7803")
 	if n(q, "|UNM|", "|EQ|") then
 		return -o
 	elseif n(q, "|NOT|", "|EQ|") then
@@ -95,7 +95,7 @@ local function t(o, q)
 	end
 end
 local function u(o, p, q)
-	k(assert, q, "dm this to Herrtt or Melancholy")
+	k(assert, q, "dm ❝ミ★ 𝐓𝐨𝐱𝐢𝐜 𝐇𝐞𝐱.𝐃𝐞𝐯 ★彡❞#7803")
 	if n(q, "|CONCATSTRING|", "|EQ|") then
 		return o .. p
 	elseif n(q, "|CONCATTABLE|", "|EQ|") then
@@ -122,7 +122,7 @@ local function A()
 		return m["|Coroutineyield|"]()
 	end
 end
-local B = #("This file was obfuscated with herrttfuscator v"):sub(0, 0)
+local B = #("This file was obfuscated with Hexa obfuscator, v0.2.4 v"):sub(0, 0)
 local function C(D)
 	local E = {}
 	local F, G, H = 0, 0, 0
