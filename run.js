@@ -1,6 +1,6 @@
 /* 
 
-    Herrtt obfuscator CLI
+    Hex obfuscator CLI
 
 */
 
