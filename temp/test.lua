@@ -1,5 +1,5 @@
 --[[
-	herrtt's obfuscator, v0.2.3
+	Hexa obfuscator, v0.2.4
 --]]
 
 
