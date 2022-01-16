@@ -1,12 +1,12 @@
 /*
     Stravant thing in js
-    Written by Herrtt (originally by Stravant)
+    Written by Hex.dev
 */
 
-// I copied some comments
+/
 // no, it was not worth it
 // please leave me alone
-// I tried to copy+paste all comments, but no. I got bored.
+// 
 // Be happy.
 
 const print = console.log
